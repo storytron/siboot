@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ActorSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="actorSet.xsd">
+<Actor name="Fate">
+	<baseY>100</baseY>
+	<jawWidth>0.9</jawWidth>
+	<eyeSize>1.0</eyeSize>
+	<eyeSeparation>0</eyeSeparation>
+	<jowlSeparation>0</jowlSeparation>
+	<verticalOffsets>
+		<eye>0</eye>
+		<iris>0</iris>
+		<orbLine>0</orbLine>
+		<browLine>0</browLine>
+		<eyebrow>10</eyebrow>
+		<nose>0</nose>
+		<jowl>0</jowl>
+		<upperLip>0</upperLip>
+		<lowerLip>0</lowerLip>
+	</verticalOffsets>
+	<browThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+	</orbThickness>
+	<jowlThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+	</jowlThickness>
+</Actor>
+<Actor name="Camiggdo">
+	<baseY>110</baseY>
+	<jawWidth>0.8</jawWidth>
+	<eyeSize>0.75</eyeSize>
+	<eyeSeparation>12</eyeSeparation>
+	<jowlSeparation>10</jowlSeparation>
+	<verticalOffsets>
+		<eye>80</eye>
+		<iris>80</iris>
+		<orbLine>75</orbLine>
+		<browLine>-30</browLine>
+		<eyebrow>120</eyebrow>
+		<nose>-50</nose>
+		<jowl>80</jowl>
+		<upperLip>50</upperLip>
+		<lowerLip>50</lowerLip>
+	</verticalOffsets>
+		<eyeThickness>
+		<thickness>-10</thickness> <!--0-->
+		<thickness>-20</thickness> <!--1-->
+		<thickness>-20</thickness> <!--2-->
+		<thickness>-20</thickness> <!--3-->
+		<thickness>25</thickness> <!--4-->
+		<thickness>20</thickness> <!--5-->
+		<thickness>16</thickness> <!--6-->
+		<thickness>16</thickness> <!--7-->
+	</eyeThickness>
+	<browThickness>
+		<thickness>30</thickness> <!--0-->
+		<thickness>20</thickness> <!--1-->
+		<thickness>30</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>32</thickness> <!--0-->
+		<thickness>29</thickness> <!--1-->
+		<thickness>29</thickness> <!--2-->
+		<thickness>29</thickness> <!--3-->
+		<thickness>23</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>10</thickness> <!--0-->
+		<thickness>15</thickness> <!--1-->
+		<thickness>20</thickness> <!--2-->
+		<thickness>15</thickness> <!--3-->
+	</orbThickness>
+	<noseThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</noseThickness>
+	<jowlThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+		<thickness>0</thickness> <!--3-->
+	</jowlThickness>
+	<dimpleThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</dimpleThickness>
+</Actor>
+<Actor name="Skordokott">
+	<baseY>55</baseY>
+	<jawWidth>1.1</jawWidth>
+	<eyeSize>0.82</eyeSize>
+	<eyeSeparation>12</eyeSeparation>
+	<jowlSeparation>0</jowlSeparation>
+	<verticalOffsets>
+		<eye>205</eye>
+		<iris>205</iris>
+		<orbLine>210</orbLine>
+		<browLine>100</browLine>
+		<eyebrow>235</eyebrow>
+		<nose>-75</nose>
+		<jowl>150</jowl>
+		<upperLip>185</upperLip>
+		<lowerLip>230</lowerLip>
+	</verticalOffsets>
+	<eyeThickness>
+		<thickness>-16</thickness> <!--0-->
+		<thickness>-5</thickness> <!--1-->
+		<thickness>-5</thickness> <!--2-->
+		<thickness>-5</thickness> <!--3-->
+		<thickness>26</thickness> <!--4-->
+		<thickness>26</thickness> <!--5-->
+		<thickness>26</thickness> <!--6-->
+		<thickness>26</thickness> <!--7-->
+	</eyeThickness>
+	<browThickness>
+		<thickness>22</thickness> <!--0-->
+		<thickness>22</thickness> <!--1-->
+		<thickness>22</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>37</thickness> <!--0-->
+		<thickness>37</thickness> <!--1-->
+		<thickness>37</thickness> <!--2-->
+		<thickness>31</thickness> <!--3-->
+		<thickness>27</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>20</thickness> <!--0-->
+		<thickness>30</thickness> <!--1-->
+		<thickness>30</thickness> <!--2-->
+		<thickness>20</thickness> <!--3-->
+	</orbThickness>
+	<noseThickness>
+		<thickness>8</thickness> <!--0-->
+		<thickness>8</thickness> <!--1-->
+		<thickness>8</thickness> <!--2-->
+		<thickness>8</thickness> <!--3-->
+		<thickness>8</thickness> <!--4-->
+		<thickness>8</thickness> <!--5-->
+	</noseThickness>
+	<jowlThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+		<thickness>0</thickness> <!--3-->
+	</jowlThickness>
+	<dimpleThickness>
+		<thickness>16</thickness> <!--0-->
+		<thickness>16</thickness> <!--1-->
+		<thickness>16</thickness> <!--2-->
+		<thickness>16</thickness> <!--3-->
+		<thickness>16</thickness> <!--4-->
+		<thickness>16</thickness> <!--5-->
+	</dimpleThickness>
+</Actor>
+<Actor name="Zubenelgenubi">
+	<baseY>120</baseY>
+	<jawWidth>0.9</jawWidth>
+	<eyeSize>0.7</eyeSize>
+	<eyeSeparation>10</eyeSeparation>
+	<jowlSeparation>15</jowlSeparation>
+	<verticalOffsets>
+		<eye>45</eye>
+		<iris>45</iris>
+		<orbLine>37</orbLine>
+		<browLine>-90</browLine>
+		<eyebrow>80</eyebrow>
+		<nose>-80</nose>
+		<jowl>30</jowl>
+		<upperLip>-75</upperLip>
+		<lowerLip>-75</lowerLip>
+	</verticalOffsets>
+		<eyeThickness>
+		<thickness>-10</thickness> <!--0-->
+		<thickness>-20</thickness> <!--1-->
+		<thickness>-20</thickness> <!--2-->
+		<thickness>-20</thickness> <!--3-->
+		<thickness>5</thickness> <!--4-->
+		<thickness>10</thickness> <!--5-->
+		<thickness>15</thickness> <!--6-->
+		<thickness>5</thickness> <!--7-->
+	</eyeThickness>
+	<browThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>33</thickness> <!--0-->
+		<thickness>33</thickness> <!--1-->
+		<thickness>29</thickness> <!--2-->
+		<thickness>25</thickness> <!--3-->
+		<thickness>23</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>10</thickness> <!--0-->
+		<thickness>15</thickness> <!--1-->
+		<thickness>20</thickness> <!--2-->
+		<thickness>15</thickness> <!--3-->
+	</orbThickness>
+	<noseThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</noseThickness>
+	<jowlThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+		<thickness>0</thickness> <!--3-->
+	</jowlThickness>
+	<dimpleThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</dimpleThickness>
+</Actor>
+<Actor name="Koopie">
+	<baseY>90</baseY>
+	<jawWidth>1.2</jawWidth>
+	<eyeSize>0.85</eyeSize>
+	<eyeSeparation>20</eyeSeparation>
+	<jowlSeparation>15</jowlSeparation>
+	<verticalOffsets>
+		<eye>200</eye>
+		<iris>200</iris>
+		<orbLine>215</orbLine>
+		<browLine>175</browLine>
+		<eyebrow>240</eyebrow>
+		<nose>40</nose>
+		<jowl>220</jowl>
+		<upperLip>190</upperLip>
+		<lowerLip>190</lowerLip>
+	</verticalOffsets>
+	<eyeThickness>
+		<thickness>-5</thickness> <!--0-->
+		<thickness>-19</thickness> <!--1-->
+		<thickness>-29</thickness> <!--2-->
+		<thickness>-19</thickness> <!--3-->
+		<thickness>5</thickness> <!--4-->
+		<thickness>26</thickness> <!--5-->
+		<thickness>16</thickness> <!--6-->
+		<thickness>16</thickness> <!--7-->
+	</eyeThickness>
+	<browThickness>
+		<thickness>25</thickness> <!--0-->
+		<thickness>25</thickness> <!--1-->
+		<thickness>25</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>29</thickness> <!--0-->
+		<thickness>29</thickness> <!--1-->
+		<thickness>29</thickness> <!--2-->
+		<thickness>25</thickness> <!--3-->
+		<thickness>25</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>21</thickness> <!--0-->
+		<thickness>26</thickness> <!--1-->
+		<thickness>26</thickness> <!--2-->
+		<thickness>21</thickness> <!--3-->
+	</orbThickness>
+	<noseThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</noseThickness>
+	<jowlThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+		<thickness>0</thickness> <!--3-->
+	</jowlThickness>
+	<dimpleThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</dimpleThickness>
+</Actor>
+<Actor name="Subotai">
+	<baseY>90</baseY>
+	<jawWidth>1.2</jawWidth>
+	<eyeSize>0.85</eyeSize>
+	<eyeSeparation>20</eyeSeparation>
+	<jowlSeparation>15</jowlSeparation>
+	<verticalOffsets>
+		<eye>200</eye>
+		<iris>200</iris>
+		<orbLine>215</orbLine>
+		<browLine>175</browLine>
+		<eyebrow>240</eyebrow>
+		<nose>40</nose>
+		<jowl>220</jowl>
+		<upperLip>190</upperLip>
+		<lowerLip>190</lowerLip>
+	</verticalOffsets>
+	<eyeThickness>
+		<thickness>-5</thickness> <!--0-->
+		<thickness>-19</thickness> <!--1-->
+		<thickness>-29</thickness> <!--2-->
+		<thickness>-19</thickness> <!--3-->
+		<thickness>5</thickness> <!--4-->
+		<thickness>26</thickness> <!--5-->
+		<thickness>16</thickness> <!--6-->
+		<thickness>16</thickness> <!--7-->
+	</eyeThickness>
+	<browThickness>
+		<thickness>25</thickness> <!--0-->
+		<thickness>25</thickness> <!--1-->
+		<thickness>25</thickness> <!--2-->
+	</browThickness>
+	<eyebrowThickness>
+		<thickness>29</thickness> <!--0-->
+		<thickness>29</thickness> <!--1-->
+		<thickness>29</thickness> <!--2-->
+		<thickness>25</thickness> <!--3-->
+		<thickness>25</thickness> <!--4-->
+	</eyebrowThickness>
+	<orbThickness>
+		<thickness>21</thickness> <!--0-->
+		<thickness>26</thickness> <!--1-->
+		<thickness>26</thickness> <!--2-->
+		<thickness>21</thickness> <!--3-->
+	</orbThickness>
+	<noseThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</noseThickness>
+	<jowlThickness>
+		<thickness>0</thickness> <!--0-->
+		<thickness>0</thickness> <!--1-->
+		<thickness>0</thickness> <!--2-->
+		<thickness>0</thickness> <!--3-->
+	</jowlThickness>
+	<dimpleThickness>
+		<thickness>12</thickness> <!--0-->
+		<thickness>12</thickness> <!--1-->
+		<thickness>12</thickness> <!--2-->
+		<thickness>12</thickness> <!--3-->
+		<thickness>12</thickness> <!--4-->
+		<thickness>12</thickness> <!--5-->
+	</dimpleThickness>
+</Actor>
+</ActorSet>
+
