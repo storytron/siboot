@@ -1,2 +1,2 @@
 # siboot
-Failed 2013-2018 attempt to reimagine Trust &amp; Betrayal: The Legacy of Siboot using Storytron technology
+Attempt to reimagine Trust &amp; Betrayal: The Legacy of Siboot using Storytron technology (2013-2018)
